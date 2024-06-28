@@ -1,4 +1,4 @@
-{
+module.exports = {
   // 指定最大换行长度
   printWidth: 130,
   // 缩进制表符宽度 | 空格数
